@@ -1,0 +1,9 @@
+torch==2.2.2
+transformers==4.39.3
+tiktoken==0.5.1
+numpy==1.26.4
+matplotlib==3.7.1
+tqdm==4.66.1
+
+# updated version
+tensorflow==2.16.0rc0

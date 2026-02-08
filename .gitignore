@@ -77,3 +77,5 @@ results/
 .DS_Store
 Thumbs.db
 
+# Chapter 4
+chapter4/gpt2-luxun-finetuned-mps/

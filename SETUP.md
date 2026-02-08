@@ -106,6 +106,13 @@ jupyter kernelspec list
 cat ~/Library/Jupyter/kernels/chapter4/kernel.json
 ```
 
+## 手动选择 Python 解释器
+```
+1. 按 Cmd+Shift+P
+2. 输入并选择：Python: Select Interpreter
+3. 选择：./chapter4/.venv/bin/python
+```
+
 ---
 
 ## 总结

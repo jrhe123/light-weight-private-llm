@@ -1,4 +1,4 @@
-# Chapter 3 完整依赖列表
+# Chapter 4 完整依赖列表
 # 安装方式: pip install -r requirements.txt
 
 # 核心深度学习框架
@@ -10,10 +10,7 @@ tqdm==4.66.1
 matplotlib==3.7.1
 
 # Hugging Face 生态系统
+# 注意: transformers 需要 >= 4.40.0 以支持 peft 0.17.0
 transformers>=4.40.0
 peft==0.17.0
 accelerate==0.30.0
-
-# Chapter 3 特定包
-tiktoken==0.5.1
-tensorflow==2.16.0rc0
